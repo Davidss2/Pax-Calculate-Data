@@ -1,0 +1,64 @@
+[
+  { "class": "SS", "factor": 0.837 },
+  { "class": "AS", "factor": 0.830 },
+  { "class": "BS", "factor": 0.823 },
+  { "class": "CS", "factor": 0.814 },
+  { "class": "DS", "factor": 0.811 },
+  { "class": "ES", "factor": 0.788 },
+  { "class": "FS", "factor": 0.817 },
+  { "class": "GS", "factor": 0.793 },
+  { "class": "HS", "factor": 0.780 },
+  
+  { "class": "SSC", "factor": 0.808 },
+  { "class": "CSM", "factor": 0.794 },
+  { "class": "CSX", "factor": 0.803 },
+  
+  { "class": "SST", "factor": 0.838 },
+  { "class": "AST", "factor": 0.836 },
+  { "class": "BST", "factor": 0.835 },
+  { "class": "CST", "factor": 0.829 },
+  { "class": "DST", "factor": 0.820 },
+  { "class": "EST", "factor": 0.815 },
+  { "class": "GST", "factor": 0.812 },
+  
+  { "class": "CAM-T", "factor": 0.819 },
+  { "class": "CAM-C", "factor": 0.827 },
+  { "class": "CAM-S", "factor": 0.847 },
+
+  { "class": "XA", "factor": 0.861 },
+  { "class": "XB", "factor": 0.859 },
+  { "class": "XU", "factor": 0.869 },
+  { "class": "EVX", "factor": 0.839 },
+  
+  { "class": "SSP", "factor": 0.860 },
+  { "class": "ASP", "factor": 0.852 },
+  { "class": "BSP", "factor": 0.856 },
+  { "class": "CSP", "factor": 0.858 },
+  { "class": "DSP", "factor": 0.854 },
+  { "class": "ESP", "factor": 0.842 },
+  { "class": "FSP", "factor": 0.833 },
+
+  { "class": "SMF", "factor": 0.857 },
+  { "class": "SM", "factor": 0.870 },
+  { "class": "SSM", "factor": 0.878 },
+
+  { "class": "XP", "factor": 0.892 },
+  { "class": "BP", "factor": 0.875 },
+  { "class": "CP", "factor": 0.862 },
+  { "class": "DP", "factor": 0.863 },
+  { "class": "EP", "factor": 0.855 },
+  { "class": "FP", "factor": 0.877 },
+
+  { "class": "AM", "factor": 1.000 },
+  { "class": "BM", "factor": 0.966 },
+  { "class": "CM", "factor": 0.896 },
+  { "class": "DM", "factor": 0.906 },
+  { "class": "EM", "factor": 0.916 },
+  { "class": "FM", "factor": 0.917 },
+
+  { "class": "FSAE", "factor": 0.965 },
+  { "class": "KM", "factor": 0.936 },
+  { "class": "HCS", "factor": 0.789 },
+  { "class": "HCR", "factor": 0.813 },
+
+]
