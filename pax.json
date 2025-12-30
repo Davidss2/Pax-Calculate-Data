@@ -22,9 +22,9 @@
   { "class": "EST", "factor": 0.815 },
   { "class": "GST", "factor": 0.812 },
   
-  { "class": "CAM-T", "factor": 0.819 },
-  { "class": "CAM-C", "factor": 0.827 },
-  { "class": "CAM-S", "factor": 0.847 },
+  { "class": "CAMT", "factor": 0.819 },
+  { "class": "CAMC", "factor": 0.827 },
+  { "class": "CAMS", "factor": 0.847 },
 
   { "class": "XA", "factor": 0.861 },
   { "class": "XB", "factor": 0.859 },
