@@ -1,6 +1,5 @@
 [
   { "class": "SS", "factor": 0.837 },
-  { "class": "TEST", "factor": 0.999 },
   { "class": "AS", "factor": 0.830 },
   { "class": "BS", "factor": 0.823 },
   { "class": "CS", "factor": 0.814 },
