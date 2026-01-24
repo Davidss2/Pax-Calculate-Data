@@ -1,12 +1,12 @@
 [
-  { "class": "SS", "factor": 0.837 },
+  { "class": "SS", "factor": 0.840 },
   { "class": "AS", "factor": 0.830 },
   { "class": "BS", "factor": 0.823 },
   { "class": "CS", "factor": 0.814 },
   { "class": "DS", "factor": 0.811 },
   { "class": "ES", "factor": 0.788 },
   { "class": "FS", "factor": 0.817 },
-  { "class": "GS", "factor": 0.793 },
+  { "class": "GS", "factor": 0.809 },
   { "class": "HS", "factor": 0.780 },
   
   { "class": "SSC", "factor": 0.808 },
@@ -22,12 +22,12 @@
   { "class": "GST", "factor": 0.812 },
   
   { "class": "CAMT", "factor": 0.819 },
-  { "class": "CAMC", "factor": 0.827 },
+  { "class": "CAMC", "factor": 0.829 },
   { "class": "CAMS", "factor": 0.847 },
 
   { "class": "XA", "factor": 0.861 },
   { "class": "XB", "factor": 0.859 },
-  { "class": "XU", "factor": 0.869 },
+  { "class": "XU", "factor": 0.872 },
   { "class": "EVX", "factor": 0.839 },
   
   { "class": "SSP", "factor": 0.860 },
