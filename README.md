@@ -30,7 +30,7 @@ These files are used by the PAX Calculator iOS app to provide up-to-date class f
 
 ## Data Source
 
-PAX and PSI values are official factors published by the SCCA (Sports Car Club of America) for competitive autocross events.
+PAX and PSI values are official factors published by the SCCA (Sports Car Club of America) for competitive autocross events. This is an independent application created by an SCCA member. It is not affiliated with, endorsed by, or an official product of the Sports Car Club of America™ (SCCA®).
 
 ## Updates
 
